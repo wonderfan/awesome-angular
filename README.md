@@ -12,3 +12,5 @@ The awesome materials and curated list of  AngularJS application:
 * [angular-phonegap](https://github.com/hollyschinsky/MyAngularPhoneGapProject) - Hybrid mobile APPs with AngularJS and PhoneGap
 * [material-start](https://github.com/angular/material-start) - Quick Starter Repository for Angular Material
 * [ng-demos](https://github.com/johnpapa/ng-demos) - variety of angular demos
+* [angular-ui](https://github.com/angular-ui) - The UI components
+
